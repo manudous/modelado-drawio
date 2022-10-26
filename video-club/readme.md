@@ -1,0 +1,1 @@
+Diseñar un modelo Entidad/Relación que represente un vídeo club y en el que se almacene información sobre las películas que se tienen y los actores que en ellas trabajan. También se desea clasificar las distintas cintas por diferentes categorías.
