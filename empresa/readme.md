@@ -1,0 +1,1 @@
+Diseñar un modelo Entidad/Relación que represente la facturación de una empresa en la que se almacena todas las facturas que se han emitido, el detalle de dichas facturas y los datos de las empresas a los que se han facturado.
