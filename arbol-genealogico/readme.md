@@ -1,0 +1,1 @@
+Una persona tiene padre madre y va subiendo.
