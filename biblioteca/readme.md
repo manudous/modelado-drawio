@@ -1,1 +1,1 @@
-Diagrama Biblioteca
+Diseñar un modelo Entidad/Relación que represente una biblioteca y enel que se almacene información sobre los libros que se tienen y el autor o los autores de cada libro. También se desea clasificar los distintos libros por diferentes categorías.
