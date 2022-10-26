@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T17:18:29.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fhXrKMR1VyM2yVDod3XV" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T17:19:43.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1sEm4-O_wZ0kymf5jIJV" version="20.5.1" type="github">
   <diagram id="rSVkQBrHmm9DsXG9neLs" name="Page-1">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -163,6 +163,9 @@
             <mxPoint x="330" y="540" as="sourcePoint" />
             <mxPoint x="430" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X9v-HStZK3BaiQiExpo6-33" value="Modelado Biblioteca" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="45" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
